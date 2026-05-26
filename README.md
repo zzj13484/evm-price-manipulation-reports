@@ -53,19 +53,6 @@ security-disclosures/
 
 ---
 
-## Disclosure status
-
-| Step | Status |
-|------|--------|
-| Source audit & report drafting | ✅ Complete (draft) |
-| Submit to official bug bounty platforms | ⏳ Planned |
-| Vendor confirmation / fix verification | ⏳ Pending |
-| Public GitHub archive | ⏳ This repository |
-
-Intended platforms include [Immunefi](https://immunefi.com/), [Cantina](https://cantina.xyz/), and project-specific programs where in scope.
-
----
-
 ## License
 
 Reports and documentation in this repository are released under the [MIT License](LICENSE) unless a platform’s disclosure policy requires otherwise for submitted copies.
