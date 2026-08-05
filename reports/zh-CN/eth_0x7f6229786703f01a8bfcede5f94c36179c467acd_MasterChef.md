@@ -7,7 +7,7 @@
 | **Contract** | **`MasterChef`**（`contracts/yzz/SushiMasterChef.sol`；LP 质押挖矿 + 邀请/基金分润） |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot AMM（Uniswap V2 瞬时储备） |
-| **Reporter** | 赵志杰 |
+| **Reporter** 
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
