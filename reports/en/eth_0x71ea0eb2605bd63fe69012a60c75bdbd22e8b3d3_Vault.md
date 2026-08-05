@@ -7,7 +7,7 @@
 | **Contract** | `Vault` (`VaultYieldBasic` + `StrategyMorphoBlue`; ERC4626) |
 | **Severity** | **High** (conditional on short-term Midas / Morpho oracle manipulation) |
 | **Category** | Price manipulation / Custom oracle + vault share pricing |
-| **Reporter** | Zhao Zhijie (赵志杰) |
+| **Reporter** |
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
