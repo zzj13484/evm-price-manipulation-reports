@@ -7,7 +7,7 @@
 | **Contract** | `Vogue` (protocol stack: `Aux`, `VogueCore`, `Basket`, `Rover`, `Amp`) |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot oracle |
-| **Reporter** | Zhao Zhijie (赵志杰) |
+| **Reporter** |
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
