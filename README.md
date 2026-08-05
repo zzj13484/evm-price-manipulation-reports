@@ -2,7 +2,6 @@
 
 Independent security research on **price manipulation (PM)** vulnerabilities in verified Ethereum mainnet smart contracts.
 
-**Reporter:** Zhao Zhijie (赵志杰)  
 **Research focus:** Spot AMM / oracle pricing, zero-slippage router sinks, vault share mispricing  
 **Status:** Draft reports — pending vendor confirmation via official bug bounty platforms
 
