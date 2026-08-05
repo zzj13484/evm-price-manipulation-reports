@@ -6,7 +6,7 @@
 | **Contract** | **`Vault`**（`VaultYieldBasic` + `StrategyMorphoBlue`；ERC4626 份额金库） |
 | **Severity** | **High**（在 Midas / Morpho 预言机可被短时操纵前提下） |
 | **Category** | Price manipulation / Custom oracle + Vault share pricing |
-| **Reporter** | 赵志杰 |
+| **Reporter** 
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
