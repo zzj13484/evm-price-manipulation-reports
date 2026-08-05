@@ -7,7 +7,7 @@
 | **Contract** | `Rover` (V3 NFPM liquidity wrapper; QU!D stack) |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot AMM |
-| **Reporter** | Zhao Zhijie (赵志杰) |
+| **Reporter** |
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
