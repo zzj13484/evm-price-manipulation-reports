@@ -7,7 +7,7 @@
 | **Contract** | `MasterChef` (`contracts/yzz/SushiMasterChef.sol`) |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot AMM (Uniswap V2) |
-| **Reporter** | Zhao Zhijie (赵志杰) |
+| **Reporter** |
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
