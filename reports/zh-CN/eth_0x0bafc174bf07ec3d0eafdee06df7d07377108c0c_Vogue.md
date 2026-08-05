@@ -7,7 +7,7 @@
 | **Contract** | `Vogue`（协议核心还包括 `Aux`、`VogueCore`、`Basket`、`Rover` 等，见下文） |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot oracle（可操纵现货价） |
-| **Reporter** | 赵志杰 |
+| **Reporter** | |
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
