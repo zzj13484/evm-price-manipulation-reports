@@ -7,7 +7,7 @@
 | **Contract** | **`Rover`**（Uniswap V3 流动性包装 / MasterChef 式份额；与 `Aux`、`Vogue`、`Amp` 等同栈集成） |
 | **Severity** | **High** |
 | **Category** | Price manipulation / Spot oracle（可操纵 AMM 现货价） |
-| **Reporter** | 赵志杰 |
+| **Reporter** 
 | **Date** | 2026-05-19 |
 | **Status** | Draft |
 
